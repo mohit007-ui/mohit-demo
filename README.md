@@ -1,4 +1,4 @@
 # mohit-demo
 This is my first Git Repository.
 <br>
-Author - Mohit Chandel
+Author - Mohit Chandel(coder)
